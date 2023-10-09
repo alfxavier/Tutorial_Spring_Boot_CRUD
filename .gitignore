@@ -1,0 +1,23 @@
+# Ignorar pastas de compilação e arquivos de dependências do Maven
+**/target/
+**/build/
+**/bin/
+**/*.iml
+**/*.class
+
+# Ignorar pastas de dependências do Gradle
+**/.gradle/
+build/
+
+# Ignorar pastas do Spring Boot
+**/logs/
+**/target/
+**/bin/
+**/build/
+**/out/
+**/build.gradle
+**/application*.yml
+**/*.jar
+**/*.war
+**/*.ear
+**/*.zip
