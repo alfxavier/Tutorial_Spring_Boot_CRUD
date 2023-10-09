@@ -21,3 +21,6 @@ build/
 **/*.war
 **/*.ear
 **/*.zip
+
+#ignorar properier
+**/*.properties
