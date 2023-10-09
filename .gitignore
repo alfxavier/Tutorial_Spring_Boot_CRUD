@@ -23,4 +23,4 @@ build/
 **/*.zip
 
 #ignorar properier
-/backend/projeto/src/main/resources/application.properties
+**/backend/projeto/src/main/resources/application.properties
